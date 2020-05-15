@@ -24,7 +24,7 @@
 
 
 
-把文件`woocommerce-gateway-paysapi.php`复制到`{pate_to_your_wordpress_dir}/wp-content/plugins`
+把文件`woocommerce-gateway-paysapi-alipay-nophone.php` `woocommerce-gateway-paysapi-alipay.php` `woocommerce-gateway-paysapi-wechat.php`复制到`{pate_to_your_wordpress_dir}/wp-content/plugins`
 
 
 
@@ -32,7 +32,7 @@
 
 
 
-启用插件`WooCommerce paysapi Gateway`
+启用插件三个插件里需要的,注意:两个支付宝不要同时启用
 
 
 
@@ -40,7 +40,7 @@
 
 
 
->「仪表盘」-「WooCommerce」-「设定」-「付款」-「paysapi支付」-「设定」
+>「仪表盘」-「WooCommerce」-「设定」-「付款」-「paysapi-支付宝(不挂机)」或「paysapi-支付宝」或「paysapi-微信」-「设定」
 
 
 
@@ -56,9 +56,12 @@
 
 
 
-启用`paysapi支付`
+启用`paysapi-支付宝(不挂机)`或`paysapi-支付宝`或`paysapi-微信`
 
 
 
 
 ------
+
+
+如有任何问题联系:paysapi.work@gmail.com
